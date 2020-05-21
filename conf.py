@@ -24,7 +24,7 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "xq01"
 email = "20774110@qq.com"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://github.com/"
 description = "24班的时光机"
 key_words = ['Maverick', 'xq01', 'Galileo', 'blog']
 language = 'zh-CN'
@@ -36,8 +36,8 @@ external_links = [
     },
     {
         "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "url": "https://github.com/",
+        "brief": "的主页。"
     }
 ]
 nav = [
