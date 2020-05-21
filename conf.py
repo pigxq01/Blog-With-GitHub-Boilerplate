@@ -14,8 +14,8 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "pigxq01/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "xq01",
         "url": "https://github.com/",
         "brief": "的主页。"
     }
